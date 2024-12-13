@@ -1,11 +1,16 @@
-- 👋 Hi, I’m @Mehras-Bhat03
-- 👀 I’m interested in ... Computer Science
-- 🌱 I’m currently learning ... DSA
-  - 📫 How to reach me ... mehraswahab03@gmail.com
+Hi there! 👋
 
-- ⚡ Fun fact: ... theres no fun in facts.
+I’m a Computer Science student passionate about software development, web technologies, and problem-solving. Currently, I’m honing my programming and web development skills through practical projects and collaborations with my team at Qudelta Solutions LLP.
 
-<!---
-Mehras-Bhat03/Mehras-Bhat03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 What I Do
+	•	Develop dynamic and responsive web applications.
+	•	Build efficient and scalable software solutions.
+	•	Explore new technologies and apply them to real-world problems.
+
+📘 What I’m Learning
+I’m diving deep into data structures, algorithms, MySQL joins, PHP, and JavaScript to enhance my technical expertise. Additionally, I’m expanding my skills through projects like a ticket reservation app and other web development initiatives.
+
+🎯 Goals
+	•	Master full-stack development.
+	•	Contribute to impactful open-source projects.
+	•	Continuously grow as a developer by solving challenging problems.
