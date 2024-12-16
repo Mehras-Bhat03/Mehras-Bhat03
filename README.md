@@ -8,7 +8,7 @@ I’m a Computer Science student passionate about software development, web tech
 	•	Explore new technologies and apply them to real-world problems.
 
 📘 What I’m Learning
-I’m diving deep into data structures, algorithms, MySQL joins, PHP, and JavaScript to enhance my technical expertise. Additionally, I’m expanding my skills through projects like a ticket reservation app and other web development initiatives.
+I’m diving deep into data structures, algorithms, MySQL, PHP, Python & JavaScript to enhance my technical expertise. Additionally, I’m expanding my skills through projects like a ticket reservation app and other web development initiatives.
 
 🎯 Goals
 	•	Master full-stack development.
